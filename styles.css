@@ -495,3 +495,8 @@ nav {
     grid-template-columns: 400px repeat(3, 1fr);
     gap: 2rem;
 }
+
+.footer__blur {
+    bottom: 0;
+    right: 0;
+}
